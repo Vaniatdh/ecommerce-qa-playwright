@@ -33,8 +33,10 @@
 ### 🔴 CT-02: Validar campos obrigatórios no Checkout (Caminho Negativo)
 * **Pré-condições:** Usuário na tela de Checkout (`Checkout: Your Information`).
 * **Passos de Execução:**
-  1. Deixar os campos de formulário completamente em branco.
-  2. Clicar diretamente no botão `Continue`.
+  
+  1.Deixar os campos de formulário completamente em branco.
+
+  2.Clicar diretamente no botão `Continue`.
 
      <img width="957" height="942" alt="erro" src="https://github.com/user-attachments/assets/6d682067-b850-477a-bf10-58bc32406189" />
 
@@ -52,10 +54,14 @@
   Ao realizar o checkout sem preencher o campo `Zip/Postal Code`, o sistema exibe uma mensagem genérica ou não destaca o campo correto para o usuário.
 
 * **Passos para Reprodução:**
-  1. Fazer login no sistema.
-  2. Adicionar qualquer item ao carrinho e ir para o checkout.
-  3. Preencher `First Name` e `Last Name`, mas deixar `Zip/Postal Code` em branco.
-  4. Clicar em `Continue`.
+
+  1.Fazer login no sistema.
+
+  2.Adicionar qualquer item ao carrinho e ir para o checkout.
+
+  3.Preencher `First Name` e `Last Name`, mas deixar `Zip/Postal Code` em branco.
+
+  4.Clicar em `Continue`.
 
 * **Resultado Obtido (Incorreto):** O formulário não destaca o campo Zip Code.
 * **Resultado Esperado (Correto):** Exibir a mensagem `Error: Postal Code is required` e destacar o campo em vermelho.
