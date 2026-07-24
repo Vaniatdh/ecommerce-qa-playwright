@@ -32,3 +32,19 @@ Funcionalidade: Fluxo de Checkout no E-Commerce
     Quando avança para a página de checkout e preenche os dados de envio
     E confirma o pedido de compra
     Então o sistema deve exibir a mensagem de confirmação "Thank you for your order!"
+
+---
+
+## 📸 Evidências dos Testes Funcionais (Mão na Massa)
+
+### 1. Validação de Erro (Campos Obrigatórios)
+<img width="957" height="942" alt="erro" src="https://github.com/user-attachments/assets/6e33b9f3-f8e0-4e84-a3e5-a62708bdf22b" />
+
+
+---
+
+### 2. Confirmação de Compra (Caminho Feliz)
+> **Mensagem de Sucesso:** `Thank you for your order!`
+<img width="952" height="918" alt="sucesso" src="https://github.com/user-attachments/assets/605dd68f-e24d-407c-b9d5-f3af9d3b6926" />
+
+
