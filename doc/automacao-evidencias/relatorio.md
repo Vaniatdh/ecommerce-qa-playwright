@@ -15,7 +15,7 @@ A automação validou com sucesso dois cenários críticos de negócio, conforme
 
 A imagem abaixo captura o terminal do VS Code após a execução bem-sucedida do comando `npx playwright test --headed`. Esta é a prova concreta da execução e aprovação dos testes na máquina local.
 
-*(Inserir imagem de evidência aqui)*
+![Evidência da Execução do Playwright](playwright_evidencia-execucao.png)
 
 ## Entendendo a Execução do Comando (O Porquê)
 
