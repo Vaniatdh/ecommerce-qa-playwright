@@ -23,7 +23,7 @@ O objetivo deste projeto é demonstrar o ciclo completo de testes de uma funcion
 
 ## 📑 Cenários de Teste em BDD (Gherkin)
 
-```gherkin
+``gherkin
 Funcionalidade: Fluxo de Checkout no E-Commerce
 
   Cenário: Finalizar compra com sucesso utilizando dados válidos
