@@ -21,6 +21,8 @@
   * First Name: `Vânia`
   * Last Name: `QA`
   * Zip Code: `12345`
+<img width="917" height="563" alt="dados_do_teste" src="https://github.com/user-attachments/assets/71445af3-5303-44b5-91fd-48240b19566b" />
+  
 * **Resultado Esperado:** O sistema deve processar a compra e exibir a mensagem `Thank you for your order!`.
 * <img width="952" height="918" alt="sucesso" src="https://github.com/user-attachments/assets/5d5732a4-58c7-420d-b7ed-8555b6df0b8b" />
 
