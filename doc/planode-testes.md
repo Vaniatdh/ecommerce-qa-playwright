@@ -13,10 +13,11 @@
 
 * **Pré-condições:** Usuário autenticado e com o produto "Sauce Labs Backpack" no carrinho.
 * **Passos de Execução:**
-  1. Acessar o carrinho de compras e clicar em `Checkout`.
-  2. Preencher os campos `First Name`, `Last Name` e `Zip/Postal Code` com dados válidos.
-  3. Clicar no botão `Continue`.
-  4. Revisar o resumo do pedido e clicar em `Finish`.
+1. Acessar o carrinho de compras e clicar em `Checkout`.
+2. Preencher os campos `First Name`, `Last Name` e `Zip/Postal Code` com dados válidos.
+3. Clicar no botão `Continue`.
+4. Revisar o resumo do pedido e clicar em `Finish`.
+
 * **Dados de Teste:** 
   * First Name: `Vânia`
   * Last Name: `QA`
